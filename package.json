@@ -1,0 +1,23 @@
+{
+  "name": "process-review-1",
+  "version": "1.0.0",
+  "description": "Opening statements:",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jam9304/process-review-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jam9304/process-review-1/issues"
+  },
+  "homepage": "https://github.com/jam9304/process-review-1#readme",
+  "dependencies": {
+    "jest": "^28.0.2"
+  }
+}
